@@ -8,6 +8,7 @@ export default defineConfig({
     org: "jsm-x9",
     project: "javascript-react"
   })],
+  base:'/apple-website-sample/',
 
   build: {
     sourcemap: true
